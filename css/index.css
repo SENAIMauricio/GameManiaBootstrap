@@ -73,6 +73,11 @@ nav div a:hover {
     box-shadow: inset #0025aab4 0px -40px 20px -5px;
 }
 
+#logotipo a {
+    display: block;
+    height: 10px;    
+}
+
 nav {
     background-color: #EC3219;
     width: 60%;
